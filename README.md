@@ -1,6 +1,6 @@
 # Práticando com Seaborn
 
-Bem-vindo ao repositório "Práticas Avançadas com Seaborn"! Neste espaço, você encontrará exemplos e exercícios avançados para a visualização de dados utilizando o Seaborn. O Seaborn é uma biblioteca de visualização de dados em Python que se destaca por criar gráficos estatísticos informativos e atraentes.
+Neste repositório, você encontrará exemplos e exercícios para a visualização de dados utilizando o Seaborn. O Seaborn é uma biblioteca de visualização de dados em Python que se destaca por criar gráficos estatísticos informativos e atraentes.
 
 ## Sobre o Seaborn
 
