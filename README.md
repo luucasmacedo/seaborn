@@ -1,8 +1,18 @@
-# Biblioteca de Visualização de Dados Seaborn
+# Praticando com seaborn
 
-**Versão**: 0.11.2
+O Seaborn é uma incrível biblioteca de visualização de dados em Python, projetada para dar um toque de estilo e apelo visual às suas análises. Com uma interface de alto nível, o Seaborn torna a criação de gráficos estatísticos informativos e visualmente atraentes mais fácil do que nunca.
 
-O Seaborn é uma poderosa biblioteca de visualização de dados em Python que aprimora a estética e o apelo geral de suas visualizações de dados. Ele oferece uma interface de alto nível para a criação de gráficos estatísticos informativos e atraentes. Neste repositório, fornecemos uma seleção de conjuntos de dados, incluindo o popular conjunto de dados 'penguins', para sua exploração e análise.
+Por que o Seaborn é tão especial:
+
+- **Estética Melhorada:** O Seaborn é conhecido por seu estilo atraente e paletas de cores agradáveis, tornando suas visualizações mais agradáveis de se ver.
+
+- **Facilidade de Uso:** Com uma sintaxe amigável, o Seaborn torna a criação de gráficos estatísticos acessível a todos, independentemente do nível de experiência em programação.
+
+- **Gráficos Informativos:** Ele oferece uma variedade de gráficos estatísticos, como histogramas, gráficos de dispersão, mapas de calor e muito mais, que ajudam a revelar insights valiosos nos dados.
+
+- **Personalização Simples:** Embora os gráficos padrão sejam impressionantes, você também pode personalizá-los facilmente para atender às suas necessidades específicas.
+
+Se você deseja aprimorar a apresentação e a compreensão de seus dados, o Seaborn é uma escolha excelente. Com esta biblioteca, você pode criar visualizações que não apenas informam, mas também impressionam.
 
 ## Conjuntos de Dados
 
@@ -14,6 +24,36 @@ O conjunto de dados 'penguins' é um conjunto de dados amplamente conhecido na b
 - **Uso**: Adequado para praticar uma ampla variedade de gráficos do Seaborn, incluindo gráficos de dispersão, histogramas, gráficos de pares e muito mais.
 
 Para começar com o Seaborn e explorar o conjunto de dados 'penguins', certifique-se de instalar o Seaborn e suas dependências. Você pode começar a visualizar e analisar seus dados com as elegantes e intuitivas funções de plotagem do Seaborn.
+
+## Gráficos utilizados:
+
+### Displot
+
+- O displot, ou gráfico de distribuição, é usado para visualizar a distribuição de uma única variável numérica.
+- Cria um histograma e, opcionalmente, uma estimativa de densidade de kernel da distribuição dos dados.
+
+### Jointplot
+
+- O jointplot é útil para visualizar a relação entre duas variáveis numéricas.
+- Combina um gráfico de dispersão (scatterplot) no centro com histogramas nas margens para representar a distribuição conjunta.
+
+### Lmplot
+
+- O lmplot é usado para criar gráficos de dispersão com uma linha de regressão linear ajustada aos dados. É útil para avaliar a relação linear entre duas variáveis numéricas.
+
+### Pairplot
+
+- O pairplot cria uma matriz de gráficos de dispersão para várias variáveis numéricas. Ele ajuda a visualizar as relações entre todas as combinações de variáveis em um conjunto de dados.
+
+### Barplot
+
+- O barplot é utilizado para representar visualmente a relação entre uma variável categórica e uma variável numérica. Ele exibe barras verticais que representam a média, a mediana ou outra estatística da variável numérica para cada categoria.
+
+### Countplot
+
+- O countplot é usado para contar o número de ocorrências de cada categoria em uma variável categórica. Cria um gráfico de barras que mostra a contagem de cada categoria.
+
+---
 
 Para obter documentação detalhada, consulte a documentação oficial do Seaborn em [Documentação do Seaborn](https://seaborn.pydata.org/).
 
