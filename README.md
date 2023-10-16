@@ -1,15 +1,22 @@
-# Práticando com Seaborn
+# Biblioteca de Visualização de Dados Seaborn
 
-Neste repositório, você encontrará exemplos e exercícios para a visualização de dados utilizando o Seaborn. O Seaborn é uma biblioteca de visualização de dados em Python que se destaca por criar gráficos estatísticos informativos e atraentes.
+**Versão**: 0.11.2
 
-## Sobre o Seaborn
+O Seaborn é uma poderosa biblioteca de visualização de dados em Python que aprimora a estética e o apelo geral de suas visualizações de dados. Ele oferece uma interface de alto nível para a criação de gráficos estatísticos informativos e atraentes. Neste repositório, fornecemos uma seleção de conjuntos de dados, incluindo o popular conjunto de dados 'penguins', para sua exploração e análise.
 
-O Seaborn é uma ferramenta poderosa para criar gráficos que ajudam a entender melhor os dados. Com ele, é possível:
+## Conjuntos de Dados
 
-- **Design Atrativo:** O Seaborn foi desenvolvido para criar gráficos que, além de informativos, são visualmente agradáveis. Ele oferece diversos estilos predefinidos e paletas de cores para personalizar a aparência de suas visualizações.
+### Penguins --> Seaborn
 
-- **Compreensão Estatística:** O Seaborn disponibiliza diferentes tipos de gráficos, como barras, caixas, violinos e outros, para revelar relações estatísticas em seus dados.
+O conjunto de dados 'penguins' é um conjunto de dados amplamente conhecido na biblioteca Seaborn. Ele contém informações sobre espécies de pinguins encontradas no Arquipélago Palmer, próximo à Península Antártica. Este conjunto de dados é particularmente valioso para demonstrar várias técnicas de visualização do Seaborn, pois inclui medições de características de pinguins, como comprimento do bico, profundidade do bico, comprimento das nadadeiras e massa corporal.
 
-- **Lida com Dados Complexos:** O Seaborn é capaz de lidar com informações complexas e transformá-las em gráficos fáceis de entender, tornando a análise de dados mais simples.
+- **Colunas**: espécie, ilha, comprimento do bico (mm), profundidade do bico (mm), comprimento da nadadeira (mm), massa corporal (g), sexo
+- **Uso**: Adequado para praticar uma ampla variedade de gráficos do Seaborn, incluindo gráficos de dispersão, histogramas, gráficos de pares e muito mais.
 
-Este repositório foi criado com o propósito de aprofundar seu conhecimento e habilidades na visualização de dados utilizando o Seaborn, tornando o processo de análise de dados mais eficaz e acessível.
+Para começar com o Seaborn e explorar o conjunto de dados 'penguins', certifique-se de instalar o Seaborn e suas dependências. Você pode começar a visualizar e analisar seus dados com as elegantes e intuitivas funções de plotagem do Seaborn.
+
+Para obter documentação detalhada, consulte a documentação oficial do Seaborn em [Documentação do Seaborn](https://seaborn.pydata.org/).
+
+Para exemplos de código e tutoriais, visite o repositório oficial do Seaborn no GitHub em [Seaborn no GitHub](https://github.com/mwaskom/seaborn).
+
+Explore, visualize e compreenda seus dados com o Seaborn!
